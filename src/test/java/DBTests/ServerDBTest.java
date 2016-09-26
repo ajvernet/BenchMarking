@@ -29,13 +29,25 @@ public class ServerDBTest {
         datasource = new MysqlDataSource();
         datasource.setURL(URL);
         serverDAO = new ServerDAO(datasource, serverORM);
+        serverDAO.clear();
     }
+    
     @Test
     public void insertTest() {
         Server testLang1 = new Server("Java");
         testLang1 = serverDAO.insert(testLang1);
         assertTrue(Objects.nonNull(serverDAO.read(testLang1.getId())));
     }
+    
+    @Test
+    public void deleteTest()
+    {
+        Server testLang1 = new Server("Java");
+        testLang1 = serverDAO.insert(testLang1);
+        serverDAO.delete(testLang1.getId());
+        assertFalse(Objects.nonNull(serverDAO.read(testLang1.getId())));
+    }
+    
 
 }
 
