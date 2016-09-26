@@ -3,9 +3,10 @@ package orms;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import domain_objects.Language;
+import domain_objects.Server;
 
-public class ServerORM implements ORM<Language>{
+
+public class ServerORM implements ORM<Server>{
 
     public String projection() {
         return "id, name";
@@ -13,18 +14,18 @@ public class ServerORM implements ORM<Language>{
 
     public String table() {
         // TODO Auto-generated method stub
-        return "Languages";
+        return "Servers";
     }
 
-    public Language map(ResultSet results) throws SQLException {
-        Language language = new Language();
-        language = language.setId(results.getInt(1));
-        language = language.setName(results.getString(2));
+    public Server map(ResultSet results) throws SQLException {
+        Server server = new Server();
+        server = server.setId(results.getInt(1));
+        server = server.setName(results.getString(2));
         
-        return language;  
+        return server;  
     }
 
-    public Language eagerMap(ResultSet results) throws SQLException {
+    public Server eagerMap(ResultSet results) throws SQLException {
         // TODO Auto-generated method stub
         return null;
     }

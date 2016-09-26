@@ -13,7 +13,7 @@ import orms.ORM;
 
 public class ServerDAO extends AbstractDAO<Server>{
 
-    protected ServerDAO(DataSource datasource, ORM<Server> orm) {
+    public ServerDAO(DataSource datasource, ORM<Server> orm) {
         super(datasource, orm);
         // TODO Auto-generated constructor stub
     }
