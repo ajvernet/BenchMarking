@@ -32,6 +32,11 @@ public class Language extends DomainObject {
         return new Language(this.id, name);
     }
 
+    @Override
+    public String toString() {
+        return name;
+    }
+
 
     
     

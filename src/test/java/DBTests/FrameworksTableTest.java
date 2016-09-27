@@ -50,7 +50,7 @@ public class FrameworksTableTest {
         langDAO = new LanguageDAO(datasource, langORM);
         langDAO.clear();
         }
-    //@Test
+    @Test
     public void insertTest() {
 
         Language testLang1 = new Language("Java");

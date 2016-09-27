@@ -10,7 +10,7 @@ import domain_objects.Server;
 public class FrameworkORM implements ORM<Framework>{
 
     public String projection() {
-        return "(name, language, server, rps_8, rps_16, rps_32, rps_64, rps_128, rps_256, errors)";
+        return "(id, name, language, server, rps_8, rps_16, rps_32, rps_64, rps_128, rps_256, errors)";
      
     }
 
