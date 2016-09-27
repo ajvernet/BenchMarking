@@ -68,6 +68,36 @@ public class FrameworkDAO extends AbstractDAO<Framework>{
         return null;
     }
     
+    public List<Framework> readAll()
+    {
+        Connection connection = null;
+        List<Framework> frameworks = new ArrayList<>();
+        PreparedStatement readStatement = null;
+        ResultSet results = null;
+        
+        try{
+            
+            connection = datasource.getConnection();
+            readStatement = connection.prepareStatement(this.orm.prepareReadAll());
+            
+            results = readStatement.executeQuery();
+            
+            while(results.next())
+            {
+                Framework framework = this.orm.eagerMap(results);
+                frameworks.add(framework);
+            }
+            
+            return frameworks;
+        }catch(SQLException e){
+            e.printStackTrace();
+        }
+        finally{closeAll(readStatement, connection);}
+       
+        return frameworks;
+        
+    }
+    
     public List<Framework> eagerReadLanguage(String language)
     {
         Connection connection = null;
@@ -80,6 +110,37 @@ public class FrameworkDAO extends AbstractDAO<Framework>{
             connection = datasource.getConnection();
             readStatement = connection.prepareStatement(this.orm.prepareEagerRead("Languages") +
                     "Frameworks.Language = Languages.Name");
+            
+            results = readStatement.executeQuery();
+            
+            while(results.next())
+            {
+                Framework framework = this.orm.eagerMap(results);
+                frameworksByParam.add(framework);
+            }
+            
+            return frameworksByParam;
+        }catch(SQLException e){
+            e.printStackTrace();
+        }
+        finally{closeAll(readStatement, connection);}
+       
+        return frameworksByParam;
+            
+    }
+    
+    public List<Framework> eagerReadServer(String server)
+    {
+        Connection connection = null;
+        List<Framework> frameworksByParam = new ArrayList<>();
+        PreparedStatement readStatement = null;
+        ResultSet results = null;
+        
+        try{
+            
+            connection = datasource.getConnection();
+            readStatement = connection.prepareStatement(this.orm.prepareEagerRead("Servers") +
+                    "Frameworks.Server = Servers.Name");
             
             results = readStatement.executeQuery();
             

@@ -18,6 +18,8 @@ public interface ORM<T> {
 
     String prepareEagerRead(String table2);
     
+    String prepareReadAll();
+    
     String prepareRead();
 
     String prepareDelete();

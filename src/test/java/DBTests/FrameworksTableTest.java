@@ -50,7 +50,7 @@ public class FrameworksTableTest {
         langDAO = new LanguageDAO(datasource, langORM);
         langDAO.clear();
         }
-    @Test
+    //@Test
     public void insertTest() {
 
         Language testLang1 = new Language("Java");
@@ -64,14 +64,14 @@ public class FrameworksTableTest {
         assertTrue(Objects.nonNull(frameDAO.read(testFrame1.getId())));
     }
     
-//    @Test
-//    public void deleteTest()
-//    {
-//        Framework testFrame1 = new Framework("Java");
-//        testFrame1 = frameDAO.insert(testFrame1);
-//        frameDAO.delete(testFrame1.getId());
-//        assertFalse(Objects.nonNull(frameDAO.read(testFrame1.getId())));
-//    }
+    @Test
+    public void deleteTest()
+    {
+        Framework testFrame1 = new Framework(0, "testFrame1", new Language("Java"), new Server("Resin"), 0, 0, 0, 0, 0, 0, 0);
+        testFrame1 = frameDAO.insert(testFrame1);
+        frameDAO.delete(testFrame1.getId());
+        assertFalse(Objects.nonNull(frameDAO.read(testFrame1.getId())));
+    }
     
     @Test
     public void joinOnLanguageTest()
@@ -95,8 +95,36 @@ public class FrameworksTableTest {
         testFrame1 = frameDAO.insert(testFrame3);
         
         List<Framework> testFrameList1 = frameDAO.eagerReadLanguage("Java");
-        System.out.println(testFrameList1);
+        assertTrue(testFrameList1.size() == 3);
 
     }
+    
+    @Test
+    public void joinOnServerTest()
+    {
+        Language testLang1 = new Language("Java");
+        testLang1 = langDAO.insert(testLang1);
+        
+        Language testLang2 = new Language("Python");
+        testLang1 = langDAO.insert(testLang2);
+        
+        Server testServer1 = new Server("Resin");
+        testServer1 = serverDAO.insert(testServer1);
+        
+        
+        Framework testFrame1 = new Framework("testFrame1", new Language("Java"), new Server("Resin"), 0, 0, 0, 0, 0, 0, 0);
+        testFrame1 = frameDAO.insert(testFrame1);
+        
+        Framework testFrame2 = new Framework("testFrame2", new Language("Python"), new Server("Resin"), 0, 0, 0, 0, 0, 0, 0);
+        testFrame1 = frameDAO.insert(testFrame2);
+        
+        Framework testFrame3 = new Framework("testFrame3", new Language("Java"), new Server("Wicket"), 0, 0, 0, 0, 0, 0, 0);
+        testFrame1 = frameDAO.insert(testFrame3);
+        
+        List<Framework> testFrameList1 = frameDAO.eagerReadServer("Resin");
+        assertTrue(testFrameList1.size() == 2);
+
+    }
+    
 
 }

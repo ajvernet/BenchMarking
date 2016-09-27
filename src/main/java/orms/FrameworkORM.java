@@ -50,7 +50,11 @@ public class FrameworkORM implements ORM<Framework>{
         return "INSERT INTO " + table() + " " + projection() + "VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
     }
 
-
+    public String prepareReadAll()
+    {
+        return "SELECT * FROM " + table();
+    }
+    
     public String prepareEagerRead(String table2) {
         // TODO Auto-generated method stub
         return "SELECT * FROM " + table() + " INNER JOIN " + table2 + " ON "; 

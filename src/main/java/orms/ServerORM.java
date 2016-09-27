@@ -61,6 +61,12 @@ public class ServerORM implements ORM<Server>{
         return null;
     }
 
+    @Override
+    public String prepareReadAll() {
+        // TODO Auto-generated method stub
+        return null;
+    }
+
 
 
 }

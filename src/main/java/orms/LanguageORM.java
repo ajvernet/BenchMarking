@@ -41,6 +41,11 @@ public class LanguageORM implements ORM<Language>{
         return "SELECT * FROM " + table() + " INNER JOIN " + table2 + " ON "; 
     }
 
+    public String prepareReadAll()
+    {
+        return "SELECT * FROM " + table();
+    }
+    
     public String prepareRead() {
         // TODO Auto-generated method stub
         return "SELECT * FROM " + table() + " WHERE id = ?";
