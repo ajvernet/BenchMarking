@@ -19,7 +19,7 @@ package daos;
         final DataSource datasource;
         final ORM<T> orm;
         
-        protected AbstractDAO(DataSource datasource, ORM<T> orm)
+        public AbstractDAO(DataSource datasource, ORM<T> orm)
         {
             this.datasource = datasource;
             this.orm = orm;

@@ -13,7 +13,7 @@ import domain_objects.Language;
 import domain_objects.Language;
 import orms.LanguageORM;
 
-public class LanguageDBTest {
+public class LanguageTableTest {
 
     static String URL = "jdbc:mysql://localhost/benchmarks?" + 
             "user=root&password=root" + 
@@ -38,7 +38,7 @@ public class LanguageDBTest {
         assertTrue(Objects.nonNull(langDAO.read(testLang1.getId())));
     }
     
-    @Test
+   // @Test
     public void deleteTest()
     {
         Language testLang1 = new Language("Java");

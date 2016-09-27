@@ -16,7 +16,7 @@ public interface ORM<T> {
 
     String prepareUpdate();
 
-    String prepareEagerRead();
+    String prepareEagerRead(String table2);
     
     String prepareRead();
 

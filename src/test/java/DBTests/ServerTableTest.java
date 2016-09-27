@@ -12,7 +12,7 @@ import daos.ServerDAO;
 import domain_objects.Server;
 import orms.ServerORM;
 
-public class ServerDBTest {
+public class ServerTableTest {
 
     
     static String URL = "jdbc:mysql://localhost/benchmarks?" + 
@@ -34,18 +34,18 @@ public class ServerDBTest {
     
     @Test
     public void insertTest() {
-        Server testLang1 = new Server("Java");
-        testLang1 = serverDAO.insert(testLang1);
-        assertTrue(Objects.nonNull(serverDAO.read(testLang1.getId())));
+        Server testServer1 = new Server("Java");
+        testServer1 = serverDAO.insert(testServer1);
+        assertTrue(Objects.nonNull(serverDAO.read(testServer1.getId())));
     }
     
     @Test
     public void deleteTest()
     {
-        Server testLang1 = new Server("Java");
-        testLang1 = serverDAO.insert(testLang1);
-        serverDAO.delete(testLang1.getId());
-        assertFalse(Objects.nonNull(serverDAO.read(testLang1.getId())));
+        Server testServer1 = new Server("Java");
+        testServer1 = serverDAO.insert(testServer1);
+        serverDAO.delete(testServer1.getId());
+        assertFalse(Objects.nonNull(serverDAO.read(testServer1.getId())));
     }
     
 

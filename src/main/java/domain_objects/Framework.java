@@ -64,8 +64,79 @@ public class Framework extends DomainObject{
         return new Framework(id, this.name, this.language, server, this.rps_8, this.rps_16, this.rps_32,
                 this.rps_64, this.rps_128, this.rps_256, this.errors);
     }
+    public Framework setRPS_8(int rps_8)
+    {
+        return new Framework(id, this.name, this.language, this.server, rps_8, this.rps_16, this.rps_32,
+                this.rps_64, this.rps_128, this.rps_256, this.errors);
+    }
+    public Framework setRPS_16(int rps_16)
+    {
+        return new Framework(this.id, this.name, this.language, server, this.rps_8, rps_16, this.rps_32,
+                this.rps_64, this.rps_128, this.rps_256, this.errors);
+    }
+    public Framework setRPS_32(int rps_32)
+    {
+        return new Framework(id, this.name, this.language, this.server, this.rps_8, this.rps_16, rps_32,
+                this.rps_64, this.rps_128, this.rps_256, this.errors);
+    }
+    public Framework setRPS_64(int rps_64)
+    {
+        return new Framework(this.id, this.name, this.language, server, this.rps_8, this.rps_16, this.rps_32,
+                rps_64, this.rps_128, this.rps_256, this.errors);
+    }
+    public Framework setRPS_128(int rps_128)
+    {
+        return new Framework(this.id, this.name, this.language, server, this.rps_8, this.rps_16, this.rps_32,
+                this.rps_64, rps_128, this.rps_256, this.errors);
+    }
+    public Framework setRPS_256(int rps_256)
+    {
+        return new Framework(this.id, this.name, this.language, server, this.rps_8, this.rps_16, this.rps_32,
+                this.rps_64, this.rps_128, rps_256, this.errors);
+    }
+    public Framework setErrors(int errors)
+    {
+        return new Framework(this.id, this.name, this.language, server, this.rps_8, this.rps_16, this.rps_32,
+                this.rps_64, this.rps_128, this.rps_256, errors);
+    }
 
 
+
+    public Language getLanguage() {
+        return language;
+    }
+
+    public Server getServer() {
+        return server;
+    }
+
+    public int getRps_8() {
+        return rps_8;
+    }
+
+    public int getRps_16() {
+        return rps_16;
+    }
+
+    public int getRps_32() {
+        return rps_32;
+    }
+
+    public int getRps_64() {
+        return rps_64;
+    }
+
+    public int getRps_128() {
+        return rps_128;
+    }
+
+    public int getRps_256() {
+        return rps_256;
+    }
+
+    public int getErrors() {
+        return errors;
+    }
 
     @Override
     public int hashCode() {
@@ -125,7 +196,7 @@ public class Framework extends DomainObject{
 
     @Override
     public String toString() {
-        return "Framework [language=" + language + ", server=" + server + ", rps_8=" + rps_8 + ", rps_16=" + rps_16
+        return "Framework [id=" + id + ", name=" + name + ", language=" + language + ", server=" + server + ", rps_8=" + rps_8 + ", rps_16=" + rps_16
                 + ", rps_32=" + rps_32 + ", rps_64=" + rps_64 + ", rps_128=" + rps_128 + ", rps_256=" + rps_256
                 + ", errors=" + errors + "]";
     }
