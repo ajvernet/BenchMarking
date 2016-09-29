@@ -38,7 +38,7 @@ public class FrameworksController {
     @RequestMapping(value = "")
     public View home()
     {
-        return new InternalResourceView("templates/home.html");
+        return new InternalResourceView("templates/index.html");
     }
     
     @RequestMapping(produces = "application/json", value = "/showAll", method = RequestMethod.GET)
