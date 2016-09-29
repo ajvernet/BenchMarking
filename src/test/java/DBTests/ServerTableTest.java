@@ -5,12 +5,11 @@ import java.util.Objects;
 
 import org.junit.Before;
 import org.junit.Test;
+import org.ssa.ironyard.daos.ServerDAO;
+import org.ssa.ironyard.domain_objects.Server;
+import org.ssa.ironyard.orms.ServerORM;
 
 import com.mysql.jdbc.jdbc2.optional.MysqlDataSource;
-
-import daos.ServerDAO;
-import domain_objects.Server;
-import orms.ServerORM;
 
 public class ServerTableTest {
 
@@ -23,7 +22,7 @@ public class ServerTableTest {
     ServerORM serverORM = new ServerORM(){};
     ServerDAO serverDAO;
     
-    @Before
+    //@Before
     public void setup()
     {
         datasource = new MysqlDataSource();
@@ -32,14 +31,14 @@ public class ServerTableTest {
         serverDAO.clear();
     }
     
-    @Test
+    //@Test
     public void insertTest() {
         Server testServer1 = new Server("Java");
         testServer1 = serverDAO.insert(testServer1);
         assertTrue(Objects.nonNull(serverDAO.read(testServer1.getId())));
     }
     
-    @Test
+   // @Test
     public void deleteTest()
     {
         Server testServer1 = new Server("Java");

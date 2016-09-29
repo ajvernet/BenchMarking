@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: DBTests.ServerTableTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.361 sec - in DBTests.ServerTableTest
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.21 sec <<< FAILURE! - in DBTests.ServerTableTest
+deleteTest(DBTests.ServerTableTest)  Time elapsed: 0.11 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at DBTests.ServerTableTest.deleteTest(ServerTableTest.java:47)
+

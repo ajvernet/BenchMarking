@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: DBTests.LanguageTableTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.254 sec - in DBTests.LanguageTableTest
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.13 sec <<< FAILURE! - in DBTests.LanguageTableTest
+insertTest(DBTests.LanguageTableTest)  Time elapsed: 0.13 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at DBTests.LanguageTableTest.insertTest(LanguageTableTest.java:38)
+

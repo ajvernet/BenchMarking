@@ -1,0 +1,438 @@
+14:49:41.350 [main] WARN org.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Maven\my-app\target\classes\corncob.txt, exists?true
+14:49:41.354 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - loading method reached
+14:49:41.354 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - map created
+14:49:41.354 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - FF created
+14:49:41.354 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - File created
+14:49:41.354 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Does file exist?: true
+14:49:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Aardvark
+14:49:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA 
+14:49:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+14:49:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+14:49:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Aardvark, Continents: [AFRICA], Fun Fact: The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+14:49:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboon
+14:49:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+14:49:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+14:49:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+14:49:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Baboon, Continents: [AFRICA], Fun Fact: Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+14:49:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzee
+14:49:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+14:49:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+14:49:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Chimpanzee, Continents: [AFRICA], Fun Fact: Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkey
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE]
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA]
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA]
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+14:49:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Donkey, Continents: [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA], Fun Fact: Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+14:49:41.358 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephant
+14:49:41.358 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+14:49:41.358 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+14:49:41.358 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+14:49:41.358 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+14:49:41.358 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+14:49:41.360 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Elephant, Continents: [AFRICA, ASIA], Fun Fact: Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+14:51:05.736 [main] WARN org.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Maven\my-app\target\classes\corncob.txt, exists?true
+14:51:05.740 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - loading method reached
+14:51:05.740 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - map created
+14:51:05.741 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - FF created
+14:51:05.741 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - File created
+14:51:05.741 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Does file exist?: true
+14:51:05.742 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Aardvark
+14:51:05.742 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA 
+14:51:05.743 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+14:51:05.743 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+14:51:05.743 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Aardvark, Continents: [AFRICA], Fun Fact: The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+14:51:05.744 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboon
+14:51:05.744 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+14:51:05.744 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+14:51:05.744 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+14:51:05.744 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Baboon, Continents: [AFRICA], Fun Fact: Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+14:51:05.744 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzee
+14:51:05.744 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+14:51:05.744 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+14:51:05.744 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+14:51:05.745 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Chimpanzee, Continents: [AFRICA], Fun Fact: Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+14:51:05.745 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkey
+14:51:05.745 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+14:51:05.745 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+14:51:05.745 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+14:51:05.745 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+14:51:05.745 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+14:51:05.745 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE]
+14:51:05.745 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+14:51:05.745 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA]
+14:51:05.746 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+14:51:05.746 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA]
+14:51:05.746 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+14:51:05.746 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Donkey, Continents: [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA], Fun Fact: Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+14:51:05.746 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephant
+14:51:05.746 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+14:51:05.746 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+14:51:05.746 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+14:51:05.747 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+14:51:05.747 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+14:51:05.750 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Elephant, Continents: [AFRICA, ASIA], Fun Fact: Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:08:41.347 [main] WARN org.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Maven\my-app\target\classes\corncob.txt, exists?true
+15:08:41.352 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - loading method reached
+15:08:41.352 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - map created
+15:08:41.352 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - FF created
+15:08:41.352 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - File created
+15:08:41.352 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Does file exist?: true
+15:08:41.353 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Aardvark
+15:08:41.353 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA 
+15:08:41.354 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:08:41.354 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Aardvark, Continents: [AFRICA], Fun Fact: The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboon
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Baboon, Continents: [AFRICA], Fun Fact: Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzee
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Chimpanzee, Continents: [AFRICA], Fun Fact: Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkey
+15:08:41.355 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE]
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA]
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA]
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Donkey, Continents: [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA], Fun Fact: Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephant
+15:08:41.356 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:08:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:08:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:08:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:08:41.357 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:08:41.359 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Elephant, Continents: [AFRICA, ASIA], Fun Fact: Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:27:04.446 [main] WARN org.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Maven\my-app\target\classes\corncob.txt, exists?true
+15:27:04.449 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - loading method reached
+15:27:04.449 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - map created
+15:27:04.449 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - FF created
+15:27:04.449 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - File created
+15:27:04.450 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Does file exist?: true
+15:27:04.450 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Aardvark
+15:27:04.450 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA 
+15:27:04.451 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:27:04.451 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+15:27:04.451 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Aardvark, Continents: [AFRICA], Fun Fact: The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+15:27:04.451 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboon
+15:27:04.451 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:27:04.451 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:27:04.451 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Baboon, Continents: [AFRICA], Fun Fact: Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzee
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Chimpanzee, Continents: [AFRICA], Fun Fact: Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkey
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE]
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+15:27:04.452 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA]
+15:27:04.453 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:27:04.453 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA]
+15:27:04.453 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+15:27:04.453 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Donkey, Continents: [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA], Fun Fact: Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+15:27:04.453 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephant
+15:27:04.453 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:27:04.453 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:27:04.453 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:27:04.453 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:27:04.453 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:27:04.456 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Elephant, Continents: [AFRICA, ASIA], Fun Fact: Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:28:01.451 [main] WARN org.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Maven\my-app\target\classes\corncob.txt, exists?true
+15:28:01.457 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - loading method reached
+15:28:01.457 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - map created
+15:28:01.457 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - FF created
+15:28:01.457 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - File created
+15:28:01.458 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Does file exist?: true
+15:28:01.458 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Aardvark
+15:28:01.458 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA 
+15:28:01.459 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:28:01.459 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+15:28:01.459 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Aardvark, Continents: [AFRICA], Fun Fact: The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+15:28:01.459 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboon
+15:28:01.459 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:28:01.459 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:28:01.459 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+15:28:01.460 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Baboon, Continents: [AFRICA], Fun Fact: Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+15:28:01.460 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzee
+15:28:01.460 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:28:01.460 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:28:01.460 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+15:28:01.460 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Chimpanzee, Continents: [AFRICA], Fun Fact: Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+15:28:01.460 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkey
+15:28:01.460 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:28:01.460 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:28:01.460 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE]
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA]
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA]
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Donkey, Continents: [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA], Fun Fact: Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephant
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:28:01.461 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:28:01.462 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:28:01.464 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Elephant, Continents: [AFRICA, ASIA], Fun Fact: Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:32:38.230 [main] WARN org.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Maven\my-app\target\classes\corncob.txt, exists?true
+15:32:38.234 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - loading method reached
+15:32:38.235 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - map created
+15:32:38.235 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - FF created
+15:33:37.756 [main] WARN org.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Maven\my-app\target\classes\corncob.txt, exists?true
+15:33:37.761 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - loading method reached
+15:33:37.761 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - map created
+15:33:37.761 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - FF created
+15:34:56.928 [main] WARN org.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Maven\my-app\target\classes\corncob.txt, exists?true
+15:34:56.932 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - loading method reached
+15:34:56.933 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - map created
+15:34:56.933 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - FF created
+15:34:56.933 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - File created
+15:34:56.933 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Does file exist?: true
+15:34:56.934 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Aardvark 
+15:34:57.119 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA 
+15:34:57.120 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:34:57.120 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+15:34:57.120 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Aardvark , Continents: [AFRICA], Fun Fact: The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+15:34:57.120 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboon
+15:34:57.121 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:34:57.121 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:34:57.121 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+15:34:57.121 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Baboon, Continents: [AFRICA], Fun Fact: Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+15:34:57.121 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzee
+15:34:57.121 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:34:57.121 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:34:57.121 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+15:34:57.121 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Chimpanzee, Continents: [AFRICA], Fun Fact: Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+15:34:57.122 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkey
+15:34:57.122 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:34:57.122 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:34:57.122 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:34:57.122 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:34:57.122 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+15:34:57.122 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE]
+15:34:57.122 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+15:34:57.122 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA]
+15:34:57.122 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:34:57.122 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA]
+15:34:57.122 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+15:34:57.123 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Donkey, Continents: [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA], Fun Fact: Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+15:34:57.123 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephant
+15:34:57.123 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:34:57.123 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:34:57.123 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:34:57.123 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:34:57.123 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:34:57.126 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Elephant, Continents: [AFRICA, ASIA], Fun Fact: Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:34:57.126 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Fish
+15:34:57.126 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:34:57.126 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:34:57.126 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:34:57.126 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:34:57.126 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+15:34:57.127 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE]
+15:34:57.127 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+15:34:57.127 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA]
+15:34:57.127 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:34:57.127 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA]
+15:34:57.127 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Fish are good swimmers.
+15:34:57.127 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Fish, Continents: [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA], Fun Fact: Fish are good swimmers.
+15:34:57.127 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Gorilla
+15:34:57.127 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:34:57.127 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:34:57.127 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Remember Harambe.
+15:34:57.128 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Gorilla, Continents: [AFRICA], Fun Fact: Remember Harambe.
+15:34:57.128 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Horse
+15:34:57.128 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+15:34:57.128 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [NORTH_AMERICA]
+15:34:57.128 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:34:57.128 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [NORTH_AMERICA, ASIA]
+15:34:57.128 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+15:34:57.128 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [NORTH_AMERICA, ASIA, EUROPE]
+15:34:57.128 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:34:57.128 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [NORTH_AMERICA, ASIA, EUROPE, SOUTH_AMERICA]
+15:34:57.128 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Horse walks into a bar.  Bartender says, Why the long face?
+15:34:57.128 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Horse, Continents: [NORTH_AMERICA, ASIA, EUROPE, SOUTH_AMERICA], Fun Fact: Horse walks into a bar.  Bartender says, Why the long face?
+15:34:57.129 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Iguana
+15:34:57.129 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:34:57.129 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [SOUTH_AMERICA]
+15:34:57.129 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - It's an iguana.
+15:34:57.129 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Iguana, Continents: [SOUTH_AMERICA], Fun Fact: It's an iguana.
+15:41:04.545 [main] WARN org.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Maven\my-app\target\classes\corncob.txt, exists?true
+15:41:04.550 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - loading method reached
+15:41:04.550 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - map created
+15:41:04.550 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - FF created
+15:41:04.550 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - File created
+15:41:04.550 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Does file exist?: true
+15:41:04.551 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Aardvark 
+15:41:04.551 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA 
+15:41:04.551 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:41:04.551 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+15:41:04.552 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Aardvark , Continents: [AFRICA], Fun Fact: The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+15:41:04.552 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboon
+15:41:04.552 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:41:04.552 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:41:04.552 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+15:41:04.552 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Baboon, Continents: [AFRICA], Fun Fact: Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzee
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Chimpanzee, Continents: [AFRICA], Fun Fact: Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkey
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE]
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+15:41:04.553 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA]
+15:41:04.554 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:41:04.554 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA]
+15:41:04.554 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+15:41:04.554 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Donkey, Continents: [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA], Fun Fact: Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+15:41:04.554 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephant
+15:41:04.554 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:41:04.554 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:41:04.554 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:41:04.554 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:41:04.554 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:41:04.558 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Elephant, Continents: [AFRICA, ASIA], Fun Fact: Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:41:04.558 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Fish
+15:41:04.558 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:41:04.558 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:41:04.558 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:41:04.558 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:41:04.558 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+15:41:04.558 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE]
+15:41:04.558 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+15:41:04.558 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA]
+15:41:04.558 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:41:04.559 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA]
+15:41:04.559 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Fish are good swimmers.
+15:41:04.559 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Fish, Continents: [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA], Fun Fact: Fish are good swimmers.
+15:41:04.559 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Gorilla
+15:41:04.559 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:41:04.559 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:41:04.559 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Remember Harambe.
+15:41:04.559 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Gorilla, Continents: [AFRICA], Fun Fact: Remember Harambe.
+15:41:04.559 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Horse
+15:41:04.559 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+15:41:04.559 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [NORTH_AMERICA]
+15:41:04.559 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:41:04.560 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [NORTH_AMERICA, ASIA]
+15:41:04.560 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+15:41:04.560 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [NORTH_AMERICA, ASIA, EUROPE]
+15:41:04.560 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:41:04.560 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [NORTH_AMERICA, ASIA, EUROPE, SOUTH_AMERICA]
+15:41:04.560 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Horse walks into a bar.  Bartender says, Why the long face?
+15:41:04.560 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Horse, Continents: [NORTH_AMERICA, ASIA, EUROPE, SOUTH_AMERICA], Fun Fact: Horse walks into a bar.  Bartender says, Why the long face?
+15:41:04.560 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Iguana
+15:41:04.560 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:41:04.560 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [SOUTH_AMERICA]
+15:41:04.560 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - It's an iguana.
+15:41:04.560 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Iguana, Continents: [SOUTH_AMERICA], Fun Fact: It's an iguana.
+15:53:34.156 [main] WARN org.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Maven\my-app\target\classes\corncob.txt, exists?true
+15:53:34.160 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - loading method reached
+15:53:34.160 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - map created
+15:53:34.160 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - FF created
+15:53:34.160 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - File created
+15:53:34.161 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Does file exist?: true
+15:53:34.161 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Aardvark 
+15:53:34.161 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA 
+15:53:34.162 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:53:34.162 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+15:53:34.162 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Aardvark , Continents: [AFRICA], Fun Fact: The aardvark is a medium-sized, burrowing, nocturnal mammal native to Africa. It is the only living species of the order Tubulidentata, although other prehistoric species and genera of Tubulidentata are known.
+15:53:34.163 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboon
+15:53:34.163 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:53:34.163 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:53:34.163 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+15:53:34.163 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Baboon, Continents: [AFRICA], Fun Fact: Baboons are African and Arabian Old World monkeys belonging to the genus Papio, part of the subfamily Cercopithecinae. The five species are some of the largest non-hominoid members of the primate order; only the mandrill and the drill are larger.
+15:53:34.163 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzee
+15:53:34.163 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:53:34.163 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:53:34.163 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+15:53:34.163 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Chimpanzee, Continents: [AFRICA], Fun Fact: Chimpanzees are one of two exclusively African species of great ape that are currently extant. Native to sub-Saharan Africa, both are currently found in the Congo jungle. Classified in the genus Pan, they were once considered to be one species.
+15:53:34.163 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkey
+15:53:34.163 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE]
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA]
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA]
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Donkey, Continents: [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA], Fun Fact: Donkeys have a notorious reputation for stubbornness, but this has been attributed to a much stronger sense of self-preservation than exhibited by horses.[24] Likely based on a stronger prey instinct and a weaker connection with man, it is considerably more difficult to force or frighten a donkey into doing something it perceives to be dangerous for whatever reason. Once a person has earned their confidence they can be willing and companionable partners and very dependable in work.[25]
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephant
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:53:34.164 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:53:34.165 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:53:34.165 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Elephant, Continents: [AFRICA, ASIA], Fun Fact: Elephants are herbivorous and can be found in different habitats including savannahs, forests, deserts and marshes. They prefer to stay near water. They are considered to be keystone species due to their impact on their environments. Other animals tend to keep their distance where predators such as lions, tigers, hyenas, and wild dogs usually target only the young elephants (or "calves"). Females ("cows") tend to live in family groups, which can consist of one female with her calves or several related females with offspring. The groups are led by an individual known as the matriarch, often the oldest cow. Elephants have a fission–fusion society in which multiple family groups come together to socialise.
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Fish
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA]
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE]
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA]
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA]
+15:53:34.167 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Fish are good swimmers.
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Fish, Continents: [AFRICA, ASIA, EUROPE, NORTH_AMERICA, SOUTH_AMERICA], Fun Fact: Fish are good swimmers.
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Gorilla
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - AFRICA
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [AFRICA]
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Remember Harambe.
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Gorilla, Continents: [AFRICA], Fun Fact: Remember Harambe.
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Horse
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - NORTH_AMERICA
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [NORTH_AMERICA]
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - ASIA
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [NORTH_AMERICA, ASIA]
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - EUROPE
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [NORTH_AMERICA, ASIA, EUROPE]
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [NORTH_AMERICA, ASIA, EUROPE, SOUTH_AMERICA]
+15:53:34.168 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Horse walks into a bar.  Bartender says, Why the long face?
+15:53:34.169 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Horse, Continents: [NORTH_AMERICA, ASIA, EUROPE, SOUTH_AMERICA], Fun Fact: Horse walks into a bar.  Bartender says, Why the long face?
+15:53:34.169 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Iguana
+15:53:34.169 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - SOUTH_AMERICA
+15:53:34.169 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - [SOUTH_AMERICA]
+15:53:34.169 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - It's an iguana.
+15:53:34.169 [main] WARN org.ssa.ironyard.web.zoo.AnimalLoadingService - Animal added: Name: Iguana, Continents: [SOUTH_AMERICA], Fun Fact: It's an iguana.
